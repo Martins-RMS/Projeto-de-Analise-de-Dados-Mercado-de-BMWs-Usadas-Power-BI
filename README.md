@@ -89,7 +89,7 @@ O índice consolida essas variáveis em **um único valor numérico**, facilitan
 - Identificação de outliers e modelos menos vantajosos
 
 ![Visão Geral do Mercado](imagens/visao_geral.png)
-![Análise de Custo-Benefício](imagens/custo_beneficio.png)
+![Análise de Custo-Benefício](imagens/relacoes.png)
 
 ---
 
@@ -109,4 +109,5 @@ O índice consolida essas variáveis em **um único valor numérico**, facilitan
 ---
 
 ## Autor
+
 Projeto desenvolvido de forma **100% autoral**, com foco em análise de dados e tomada de decisão baseada em indicadores.
