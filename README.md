@@ -88,8 +88,8 @@ O índice consolida essas variáveis em **um único valor numérico**, facilitan
 - Comparação entre preço, eficiência e quilometragem
 - Identificação de outliers e modelos menos vantajosos
 
-![Visão Geral do Mercado](imagens/visao_geral.png)
-![Análise de Custo-Benefício](imagens/relacoes.png)
+![Visão Geral do Mercado](Imagens/visao_geral.png)
+![Análise de Custo-Benefício](Imagens/relacoes.png)
 
 ---
 
@@ -111,3 +111,4 @@ O índice consolida essas variáveis em **um único valor numérico**, facilitan
 ## Autor
 
 Projeto desenvolvido de forma **100% autoral**, com foco em análise de dados e tomada de decisão baseada em indicadores.
+
